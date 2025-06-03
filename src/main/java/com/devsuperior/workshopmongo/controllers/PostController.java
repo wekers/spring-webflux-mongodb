@@ -43,4 +43,9 @@ public class PostController {
 			Instant max = URL.convertDate(maxDate, Instant.now());
 			return service.fullSearch(text, min, max);
 	}
+
+	@GetMapping(value = "/user/{id}")
+	public Flux<PostDTO> findByUser(@PathVariable String id) {
+		return service.findByUser(id);
+	}
 }
