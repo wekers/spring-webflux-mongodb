@@ -144,6 +144,18 @@ Import the collection and easily test the endpoints with Postman:
 
 ---
 
+## 📐 Result PrintScreen
+
+🔌 MongoDB Compass:
+
+![MongoCompass](https://raw.githubusercontent.com/wekers/spring-webflux-mongodb/refs/heads/main/mongodb_img.png)
+
+🚀 Postman:
+
+![MongoCompass](https://raw.githubusercontent.com/wekers/spring-webflux-mongodb/refs/heads/main/postman_img.png)
+
+---
+
 ## 🛠️ Technologies
 
 
