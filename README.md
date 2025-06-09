@@ -143,6 +143,18 @@ Importe a coleção e teste os endpoints com facilidade no Postman:
 
 ---
 
+## 📐 Resultado PrintScreen
+
+🔌 MongoDB Compass:
+
+![MongoCompass](https://raw.githubusercontent.com/wekers/spring-webflux-mongodb/refs/heads/main/mongodb_img.png)
+
+🚀 Postman:
+
+![MongoCompass](https://raw.githubusercontent.com/wekers/spring-webflux-mongodb/refs/heads/main/postman_img.png)
+
+---
+
 ## 🛠️ Tecnologias
 
 - Java 17+
